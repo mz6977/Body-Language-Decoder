@@ -1,0 +1,27 @@
+Requirements Documentation:
+
+Libraries:
+	MediaPipe
+	OpenCV (cv2)
+	CSV
+	NumPy
+	Pandas
+	scikit-learn
+
+Use The Following Commands In CMD To Install Libraries:
+	pip install mediapipe
+	pip install opencv-python
+	pip install numpy
+	pip install pandas
+	pip install scikit-learn
+
+Models (Scikit-learn):
+	Logistic Regression
+	Ridge Classifier
+	Random Forest Classifier
+	Gradient Boosting Classifier
+
+System Requirements:
+	Python 3.x
+	Compatible with Windows, macOS, and Linux
+	Sufficient RAM and processing power
